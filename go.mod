@@ -1,4 +1,4 @@
-module apex-helper
+module github.com/void-mark/apex-helper
 
 go 1.23.1
 
